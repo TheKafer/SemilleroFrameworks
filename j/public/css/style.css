@@ -1,0 +1,27 @@
+
+.navbar-laravel {
+  background-color: #000000;
+}
+
+
+nav.navbar ul.nav li{
+	color: #ffffff;
+}
+.nombreapp{
+	color: #ffffff;
+	font-size: 20px;
+}
+.nav-item {
+	color: #ffffff;
+	background-color: #ffffff;
+}
+
+.formulario{
+	text-align: center;
+}
+
+.titleFormulario{
+	font-size: 32px;
+}
+
+
